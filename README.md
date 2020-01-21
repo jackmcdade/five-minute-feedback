@@ -25,3 +25,7 @@ I post these 5(ish) minute videos on YouTube. If you'd prefer yours to be privat
 ## Things I cannot provide feedback on
 
 Country music lyrics, probably.
+
+## How to get the most out of this
+
+Make sure to specify what area of your project needs feedback the most. It may be design, branding, layout, typography, you name it. But if you don't point me in the best the direction, I'll just comment on whatever stands out the most to me. 
