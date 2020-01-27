@@ -1,6 +1,7 @@
 <p align="center"><img src="https://github.com/jackmcdade/five-minute-feedback/raw/master/logo.png" width="600" alt="Five Minute Feedback" /></p>
 
-Want design, content, and ux feedback on your web project? Open an issue I'll do my best to provide constructive, useful design and copywriting feedback.
+Want design, content, and ux feedback on your web project? Open an issue and I'll look for simple and creative ways to improve it or help it stand out. In 5ish minutes.
+
 
 ## The YouTubes
 
